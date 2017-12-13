@@ -1,0 +1,11 @@
+[1206/182921:ERROR:renderer_main.cc(203)] Running without renderer sandbox
+[1206/182922:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182923:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182924:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+[1206/182924:INFO:CONSOLE(0)] "Setting 'XMLHttpRequest.withCredentials' for synchronous requests is deprecated.", source:  (0)
+[1206/182928:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182928:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182928:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182928:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/182931:ERROR:child_discardable_shared_memory_manager.cc(266)] size: 4194304
+[1206/204055:ERROR:ipc_channel_win.cc(138)] pipe error: 109
